@@ -15,8 +15,7 @@
 			<pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
 			
 			<guid>https://jamesli0318.github.io/posts/hello-world/</guid>
-			<description>第一篇貼文 內文測試
-print(&amp;#34;hello world&amp;#34;) </description>
+			<description>第一篇貼文 內文測試 print(&amp;#34;hello world&amp;#34;)</description>
 			<content type="html"><![CDATA[<h1 id="第一篇貼文">第一篇貼文</h1>
 <p>內文測試</p>
 <pre tabindex="0"><code>print(&#34;hello world&#34;)
